@@ -1,4 +1,4 @@
-# Hey there! I'm `Skiddro`!
+# Hey there! I'm `haxnoob`!
 
 
 
@@ -14,8 +14,6 @@ I have about 8 years of experience with computer software and (some) hardware, i
 I am currently working on multiple projects. A few of them are below.
 
 - BunkerStop - A proprietary revival project to combine and revive at the same time two Roblox games into one single game. Those games being `Bus Stop Simulator` and `Bunker.JPEG`.
-
-- SkiddroNG - A soon-to-be-open-source-and-released fork of WoeUSB-NG where it's code has been converted from Python to C++.
 
 - UEFIParted - My own Debian-based live distro made from scratch that is similar to GParted's live distro. I created it due to the fact it looks and seems to be very old, and it does not boot on UEFI-based systems. I'll release it's source code and stuff to GitHub if I can.
 
@@ -33,7 +31,7 @@ I am currently working on multiple projects. A few of them are below.
 
 Q: Are you a skid (script-kiddie)?
 
-A: I used to be, but that was back in 2020 and earlier. My name is "Skiddro" simply because I like the name, and it's also a reference to Squidward saying "Hold on there, Jeffro!" in the Pizza Delivery episode.
+A: I used to be, but that was back in 2020 and earlier. My name was "Skiddro" simply because I like the name, and it's also a reference to Squidward saying "Hold on there, Jeffro!" in the Pizza Delivery episode.
 
 Q: Why not take the time to learn how to code instead of using ChatGPT?
 
